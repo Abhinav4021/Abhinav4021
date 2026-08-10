@@ -2,9 +2,9 @@
 
 I am a **Full Stack Developer** with **4+ years of experience** specializing in building resilient, high-performance enterprise applications. My work focuses on scalable backend microservices, modern frontend architecture, and cloud deployment pipelines.
 
-| 📧 [Email Me](mailto:abhinavkr356@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume](https://drive.google.com/file/d/13wbrMRxlPc5gTtwHMV2RmFbxpLS5FNoU/view?usp=sharing) | Mob - +91 9155049490
+| 📧 [Email Me](mailto:abhinavkr356@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume Direct Download](https://drive.google.com/uc?export=download&id=13wbrMRxlPc5gTtwHMV2RmFbxpLS5FNoU) | 📞 +91 9155049490 |
 
-![Visitors_Count: ](https://visitor-badge.laobi.icu/badge?page_id=Abhinav4021.Abhinav4021)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhinav4021.Abhinav4021)
 
 ---
 
@@ -46,8 +46,6 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
 ### 📈 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav4021&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Abhinav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav4021&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abhinav4021&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Abhinav's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abhinav4021&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
