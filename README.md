@@ -2,9 +2,10 @@
 
 I am a **Full Stack Developer** with **4+ years of experience** specializing in building resilient, high-performance enterprise applications. My work focuses on scalable backend microservices, modern frontend architecture, and cloud deployment pipelines.
 
-| 📧 [your.email@gmail.com](mailto:your.email@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume](./blob/Abhinav_Kumar_Resume.pdf?raw=true) |
+| 📧 [Email Me](mailto:abhinavkr356@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume Download](./blob/Abhinav_Kumar_Resume.pdf?raw=true) |
 
----
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhinav4021.Abhinav4021)
+
 ---
 
 ### 💻 Core Tech Stack
@@ -42,7 +43,7 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
 
 ---
 
-### 📈 GitHub Stats & Insights
+### 📈 GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav4021&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Abhinav's GitHub Stats" width="48%" />
@@ -58,6 +59,6 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abhinavkr356@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
 </p>
