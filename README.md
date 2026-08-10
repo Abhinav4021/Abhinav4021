@@ -4,8 +4,6 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
 
 | 📧 [Email Me](mailto:abhinavkr356@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume Direct Download](https://drive.google.com/uc?export=download&id=13wbrMRxlPc5gTtwHMV2RmFbxpLS5FNoU) | 📞 +91 9155049490 |
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhinav4021.Abhinav4021)
-
 ---
 
 ### 💻 Core Tech Stack
