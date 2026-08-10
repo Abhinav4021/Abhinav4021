@@ -2,7 +2,7 @@
 
 I am a **Full Stack Developer** with **4+ years of experience** specializing in building resilient, high-performance enterprise applications. My work focuses on scalable backend microservices, modern frontend architecture, and cloud deployment pipelines.
 
-| 📧 [Email Me](mailto:abhinavkr356@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume Download](./blob/Abhinav_Kumar_Resume.pdf?raw=true) |
+| 📧 [Email Me](mailto:abhinavkr356@outlook.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume](./blob/Abhinav_Kumar_Resume.pdf?raw=true) | Mob - +91 9155049490
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Abhinav4021.Abhinav4021)
 
@@ -51,14 +51,3 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
 </p>
 
 ---
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhinavkumar02" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhinavkr356@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
-  </a>
-</p>
