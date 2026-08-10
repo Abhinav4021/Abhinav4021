@@ -2,6 +2,9 @@
 
 I am a **Full Stack Developer** with **4+ years of experience** specializing in building resilient, high-performance enterprise applications. My work focuses on scalable backend microservices, modern frontend architecture, and cloud deployment pipelines.
 
+| 📧 [your.email@gmail.com](mailto:your.email@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/abhinavkumar02) | 📄 [Resume](./blob/Abhinav_Kumar_Resume.pdf) |
+
+---
 ---
 
 ### 💻 Core Tech Stack
