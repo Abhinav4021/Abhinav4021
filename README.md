@@ -17,16 +17,6 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
 | **Architecture & Practices** | Clean Architecture, DDD (Domain-Driven Design), TDD, SOLID Principles |
 
 ---
-### 💻 Core Tech Stack
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white) |
-| **Databases** | ![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white) |
-
----
 
 ### 🚀 What I'm Focused On
 
