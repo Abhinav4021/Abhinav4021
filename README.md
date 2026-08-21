@@ -28,16 +28,28 @@ I am a **Full Stack Developer** with **4+ years of experience** specializing in 
 
 ### 🛠 Featured Projects & Architecture Proofs
 
-> *Note: Enterprise production code is proprietary, but here are open-source reference implementations demonstrating my architectural style.*
+> *Note: Enterprise production code is proprietary, but these public repositories demonstrate my architectural thinking, engineering style, and product-building approach.*
 
-#### ⚡ Enterprise Clean Architecture Boilerplate (.NET Core + Angular)
-* **Overview:** A production-ready template demonstrating Clean Architecture, CQRS pattern, and JWT-based identity management.
-* **Tech Stack:** .NET 8, Angular 17, EF Core, SQL Server, Docker.
-* **Key Features:** Domain-Driven Design (DDD) layers, automated unit testing, API documentation with Swagger, and CI/CD pipelines.
+#### 1️⃣ Social Media Post Microservices
+* **Repository:** [sm-post-microservices](https://github.com/Abhinav4021/sm-post-microservices)
+* **Overview:** An event-driven social media backend built around CQRS, Event Sourcing, and Apache Kafka. It demonstrates how command and query responsibilities can be separated into independent services while persisting domain events in MongoDB and projecting the read model into SQL Server.
+* **Tech Stack:** .NET 10, ASP.NET Core, CQRS, Event Sourcing, Apache Kafka, MongoDB, SQL Server, Docker, EF Core.
+* **Key Features:** Microservice orchestration, asynchronous event propagation, aggregate-root business logic, eventual consistency, and architecture diagrams that clarify the distributed design.
+* **Visuals:**
+<p align="left">
+  <img src="blob/Microservices%20CI:CD%20Architecture%20Overview1.png" alt="Microservices architecture overview" width="48%" />
+  <img src="blob/Microservices%20CI:CD%20Architecture%20Overview2.png" alt="Microservices CI/CD architecture overview" width="48%" />
+</p>
 
-#### 📦 Cloud-Native Microservices Hub
-* **Overview:** A proof-of-concept application showcasing distributed event-driven communication between microservices.
-* **Tech Stack:** .NET Core, Azure Service Bus, Redis Cache, PostgreSQL.
+#### 2️⃣ TaskFlow-UI
+* **Repository:** [TaskFlow-UI](https://github.com/Abhinav4021/TaskFlow-UI)
+* **Overview:** A polished Angular-based task and user management interface designed around modular components and a clean user experience. It emphasizes efficient front-end composition, reusable UI patterns, and a simple workflow for tracking users and related tasks.
+* **Tech Stack:** Angular, TypeScript, HTML5, SCSS/CSS3, RxJS, component-driven architecture.
+* **Key Features:** User listing, task interaction, modern UI styling, structured Angular modules, and a scalable frontend foundation for product workflows.
+* **Visuals:**
+<p align="left">
+  <img src="blob/TaskFlow-UI.png" alt="TaskFlow UI dashboard" width="100%" />
+</p>
 
 ---
 
